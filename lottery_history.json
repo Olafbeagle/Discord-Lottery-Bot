@@ -1,0 +1,124 @@
+[
+  {
+    "date": "2026-08-02T15:09:29",
+    "executor": "olaf_5264",
+    "participants": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+    ],
+    "winner_count": 3,
+    "prizes": [
+      "1",
+      "2",
+      "3"
+    ],
+    "results": [
+      {
+        "winner": "D",
+        "prize": "2"
+      },
+      {
+        "winner": "F",
+        "prize": "3"
+      },
+      {
+        "winner": "G",
+        "prize": "1"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-02T15:21:41",
+    "executor": "olaf_5264",
+    "participants": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+    ],
+    "winner_count": 5,
+    "prizes": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "results": [
+      {
+        "winner": "G",
+        "prize": "3"
+      },
+      {
+        "winner": "E",
+        "prize": "4"
+      },
+      {
+        "winner": "C",
+        "prize": "2"
+      },
+      {
+        "winner": "B",
+        "prize": "1"
+      },
+      {
+        "winner": "A",
+        "prize": "5"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-02T16:13:01",
+    "lottery_name": "テスト",
+    "executor": "olaf_5264",
+    "participants": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I"
+    ],
+    "winner_count": 5,
+    "prizes": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "results": [
+      {
+        "winner": "D",
+        "prize": "2"
+      },
+      {
+        "winner": "F",
+        "prize": "1"
+      },
+      {
+        "winner": "B",
+        "prize": "4"
+      },
+      {
+        "winner": "H",
+        "prize": "5"
+      },
+      {
+        "winner": "G",
+        "prize": "3"
+      }
+    ]
+  }
+]
